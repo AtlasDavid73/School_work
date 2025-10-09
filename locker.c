@@ -5,8 +5,8 @@
 // Function to view a locker's contents
 void viewLocker(char lockers[][MAX_ITEM_LENGTH], int lockerNumber) {
     // Validate locker number
-    if (lockerNumber < 1 || lockerNumber > NUM_LOCKERS) {
-        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", NUM_LOCKERS);
+    if (lockerNumber < 1 || lockerNumber > MAX_LOCKERS) {
+        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", MAX_LOCKERS);
         return;
     }
     
@@ -24,8 +24,8 @@ void viewLocker(char lockers[][MAX_ITEM_LENGTH], int lockerNumber) {
 // Function to rent a locker
 void rentLocker(char lockers[][MAX_ITEM_LENGTH], int lockerNumber, char valueString[]) {
     // Validate locker number
-    if (lockerNumber < 1 || lockerNumber > NUM_LOCKERS) {
-        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", NUM_LOCKERS);
+    if (lockerNumber < 1 || lockerNumber > MAX_LOCKERS) {
+        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", MAX_LOCKERS);
         return;
     }
     
@@ -48,8 +48,8 @@ void rentLocker(char lockers[][MAX_ITEM_LENGTH], int lockerNumber, char valueStr
 // Function to end a locker rental
 void endRental(char lockers[][MAX_ITEM_LENGTH], int lockerNumber) {
     // Validate locker number
-    if (lockerNumber < 1 || lockerNumber > NUM_LOCKERS) {
-        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", NUM_LOCKERS);
+    if (lockerNumber < 1 || lockerNumber > MAX_LOCKERS) {
+        printf("Error: Invalid locker number. Please enter a number between 1 and %d.\n", MAX_LOCKERS);
         return;
     }
     
@@ -74,7 +74,7 @@ void listLockerContents(char lockers[][MAX_ITEM_LENGTH]) {
     printf("\n=== Rented Lockers ===\n");
     
     // Iterate through all lockers
-    for (int i = 0; i < NUM_LOCKERS; i++) {
+    for (int i = 0; i < MAX_LOCKERS; i++) {
         if (strlen(lockers[i]) > 0) {
             printf("Locker %d: %s\n", i + 1, lockers[i]);
             rentedCount++;

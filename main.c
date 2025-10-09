@@ -15,10 +15,10 @@ void displayMenu() {
 
 int main() {
     // Initialize
-    char lockers[NUM_LOCKERS][MAX_ITEM_LENGTH];
+    char lockers[MAX_LOCKERS][MAX_ITEM_LENGTH];
     
     // all lockers to empty strings
-    for (int i = 0; i < NUM_LOCKERS; i++) {
+    for (int i = 0; i < MAX_LOCKERS; i++) {
         lockers[i][0] = '\0';
     }
     
@@ -27,7 +27,7 @@ int main() {
     char item[MAX_ITEM_LENGTH];
     
     printf("Welcome to the Locker Rental System!\n");
-    printf("We have %d lockers available for rent.\n", NUM_LOCKERS);
+    printf("We have %d lockers available for rent.\n", MAX_LOCKERS);
     
     // Main program loop
     while (1) {
@@ -47,7 +47,7 @@ int main() {
         // Handle menu options using switch statement
         switch (choice) {
             case 1: // View a locker
-                printf("Enter locker number (1-%d): ", NUM_LOCKERS);
+                printf("Enter locker number (1-%d): ", MAX_LOCKERS);
                 if (scanf("%d", &lockerNumber) != 1) {
                     while (getchar() != '\n');
                     printf("Error: Invalid input. Please enter a valid locker number.\n");
@@ -58,7 +58,7 @@ int main() {
                 break;
                 
             case 2: // Rent a locker
-                printf("Enter locker number to rent (1-%d): ", NUM_LOCKERS);
+                printf("Enter locker number to rent (1-%d): ", MAX_LOCKERS);
                 if (scanf("%d", &lockerNumber) != 1) {
                     while (getchar() != '\n');
                     printf("Error: Invalid input. Please enter a valid locker number.\n");
@@ -85,7 +85,7 @@ int main() {
                 break;
                 
             case 3: // End a locker rental
-                printf("Enter locker number to end rental (1-%d): ", NUM_LOCKERS);
+                printf("Enter locker number to end rental (1-%d): ", MAX_LOCKERS);
                 if (scanf("%d", &lockerNumber) != 1) {
                     while (getchar() != '\n');
                     printf("Error: Invalid input. Please enter a valid locker number.\n");

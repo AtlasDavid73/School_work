@@ -2,7 +2,7 @@
 #define LOCKER_RENTAL_SYSTEM_H
 
 // Constants
-#define NUM_LOCKERS 100
+#define MAX_LOCKERS 100
 #define MAX_ITEM_LENGTH 100
 
 // Function prototypes
