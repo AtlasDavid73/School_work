@@ -3,12 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wed", "wed\wed.csproj", "{6D7D5AE9-2D30-4913-9178-1B73FC334ACE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function", "Function\Function.csproj", "{7AFCC17E-5C91-4AE5-99A8-DBC02FCDD8C4}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "job", "job\job.csproj", "{3FAD4A05-99B0-4496-97D6-C71F19DE6694}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{1678FE6F-7C9C-42BD-80EA-2368B811810E}"
 EndProject
 Global
