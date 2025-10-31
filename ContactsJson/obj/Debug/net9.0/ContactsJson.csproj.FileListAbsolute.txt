@@ -1,0 +1,15 @@
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.AssemblyInfoInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.AssemblyInfo.cs
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.csproj.CoreCompileInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.sourcelink.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\bin\Debug\net9.0\ContactsJson.exe
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\bin\Debug\net9.0\ContactsJson.deps.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\bin\Debug\net9.0\ContactsJson.runtimeconfig.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\bin\Debug\net9.0\ContactsJson.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\bin\Debug\net9.0\ContactsJson.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\refint\ContactsJson.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ContactsJson.genruntimeconfig.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ContactsJson\obj\Debug\net9.0\ref\ContactsJson.dll
