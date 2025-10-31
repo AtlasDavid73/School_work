@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactsJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd339313c3c727cf02f0e91876ed0c1b31ec646c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1a69e9d94cce528331f6cd90ebc1adf8abeacde")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactsJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactsJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

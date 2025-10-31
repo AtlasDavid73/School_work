@@ -61,7 +61,7 @@ public static class ConsoleIO
 
     public static string GetRequiredString(string prompt)
     {
-        string input;
+        string? input;
 
         while (true)
         {
@@ -83,7 +83,7 @@ public static class ConsoleIO
         while (true)
         {
             Console.Write(prompt);
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (DateOnly.TryParse(input, out DateOnly date))
             {
@@ -110,7 +110,7 @@ public static class ConsoleIO
         while (true)
         {
             Console.Write(prompt);
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
 
             if (TimeOnly.TryParse(input, out TimeOnly time))
             {
