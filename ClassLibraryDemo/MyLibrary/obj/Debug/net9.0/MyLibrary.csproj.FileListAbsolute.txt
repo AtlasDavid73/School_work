@@ -1,0 +1,12 @@
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\bin\Debug\net9.0\MyLibrary.deps.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\bin\Debug\net9.0\MyLibrary.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\bin\Debug\net9.0\MyLibrary.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.AssemblyInfo.cs
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.sourcelink.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\refint\MyLibrary.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\MyLibrary.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\ClassLibraryDemo\MyLibrary\obj\Debug\net9.0\ref\MyLibrary.dll

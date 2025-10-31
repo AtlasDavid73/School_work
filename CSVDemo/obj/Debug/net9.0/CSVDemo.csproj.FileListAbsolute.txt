@@ -1,0 +1,15 @@
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.AssemblyInfoInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.AssemblyInfo.cs
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.csproj.CoreCompileInputs.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.sourcelink.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\bin\Debug\net9.0\CSVDemo.exe
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\bin\Debug\net9.0\CSVDemo.deps.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\bin\Debug\net9.0\CSVDemo.runtimeconfig.json
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\bin\Debug\net9.0\CSVDemo.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\bin\Debug\net9.0\CSVDemo.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\refint\CSVDemo.dll
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.pdb
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\CSVDemo.genruntimeconfig.cache
+C:\Users\Smith\OneDrive\Documentos\VSC\School_work\CSVDemo\obj\Debug\net9.0\ref\CSVDemo.dll
